@@ -1,0 +1,21 @@
+# Build output
+Debug/
+Release/
+build/
+.out/
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+
+# IDE settings
+.settings/
+*.launch
+*.log
+
+# Backup / temp
+*.swp
+*.tmp
+*.bak
